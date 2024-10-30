@@ -10,3 +10,8 @@ App allow to create user, add/edit/delete Pets
 All data are connecting to PostGres database
 
 Authjs: for checking authentication login/logout with email and password in database
+
+Link : https://tantrinhpetstore.vercel.app/ 
+For Testing
+emmail: example@gmail.com
+pass: example
